@@ -1,0 +1,34 @@
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+body {
+    background-color: lightblue;
+    position: centre;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
