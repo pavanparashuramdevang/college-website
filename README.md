@@ -24,13 +24,30 @@ CREATE TABLE users(usn VARCHAR(255) PRIMARY KEY,name VARCHAR(255),password VARCH
 CREATE TABLE verify(usn PRIMARY KEY VARCHAR(255),checkbox BOOLEAN);\
 
 # SNAPSHOTS
+## SYSTEM DESIGN DIAGRAM
 ![image_1](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_1.png?raw=true)
+
+## ER DIAGRAM
 ![image_2](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_2.png?raw=true)
+
+## HOME PAGE
 ![image_3](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_3.png?raw=true)
+
+## STUDENT LOGIN PAGE
 ![image_4](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_4.png?raw=true)
+
+## ADMIN LOGIN PAGE
 ![image_5](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_5.png?raw=true)
+
+## ADMINS SEARCH RESULT VIEW
 ![image_6](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_6.png?raw=true)
+
+## ADMIN VIEW
 ![image_7](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_7.png?raw=true)
+
+## CONTACT-US PAGE
 ![image_8](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_8.png?raw=true)
+
+## DEPARTMENT VIEW
 ![image_9](https://github.com/pavanparashuramdevang/college-website/blob/main/snapshots/image_9.png?raw=true)
 
